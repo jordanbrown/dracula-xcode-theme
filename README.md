@@ -1,2 +1,2 @@
 
-![Screenshot](https://github.com/jordanbrown/dracula-xcode-theme/blob/master/Screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/jordanbrown/dracula-xcode-theme/master/Screenshot.png)
